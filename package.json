@@ -1,0 +1,17 @@
+{
+  "name": "tiktok-api",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joseph",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "tiktok-app-api": "^1.4.1",
+    "tiktok-scraper": "^1.4.36",
+    "tiktok-web-api": "^1.5.0"
+  }
+}
